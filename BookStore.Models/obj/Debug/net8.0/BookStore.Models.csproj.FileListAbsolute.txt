@@ -1,0 +1,14 @@
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\bin\Debug\net8.0\BookStore.Models.deps.json
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\bin\Debug\net8.0\BookStore.Models.runtimeconfig.json
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\refint\BookStore.Models.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\BookStore.Models.genruntimeconfig.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Models\obj\Debug\net8.0\ref\BookStore.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.deps.json
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStor.9F9B03E6.Up2Date
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\refint\BookStore.Repository.dll
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Divye\OneDrive\Desktop\TestProject\BookStore.Repository\obj\Debug\net8.0\ref\BookStore.Repository.dll
